@@ -226,7 +226,7 @@ $(document).ready(function() {
 
     if (document.getElementById("count")) {
 
-        var countDownDate = new Date("Sep 5, 2018 15:37:25").getTime();
+        var countDownDate = new Date("Mar 4, 2020 13:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {
